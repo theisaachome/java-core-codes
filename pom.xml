@@ -4,14 +4,15 @@
   <artifactId>00-java-core</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <properties>
-  	<maven.compiler.target>11</maven.compiler.target>
-  	<maven.compiler.source>11</maven.compiler.source>
-  </properties>
   <modules>
   	<module>08-inheritance</module>
   	<module>007-java-array</module>
   	<module>005-inner-class</module>
   	<module>009-interface</module>
+  	<module>010-java-exception</module>
   </modules>
+  <properties>
+  	<maven.compiler.target>17</maven.compiler.target>
+  	<maven.compiler.source>17</maven.compiler.source>
+  </properties>
 </project>
