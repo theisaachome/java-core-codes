@@ -10,6 +10,7 @@
   	<module>005-inner-class</module>
   	<module>009-interface</module>
   	<module>010-java-exception</module>
+  	<module>011-lambda-expression</module>
   </modules>
   <properties>
   	<maven.compiler.target>17</maven.compiler.target>
