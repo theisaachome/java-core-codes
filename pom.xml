@@ -11,6 +11,7 @@
   	<module>009-interface</module>
   	<module>010-java-exception</module>
   	<module>011-lambda-expression</module>
+  	<module>014-collections</module>
   </modules>
   <properties>
   	<maven.compiler.target>17</maven.compiler.target>
